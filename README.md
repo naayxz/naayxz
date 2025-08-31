@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=4DD9D9&width=1000&lines=Olá,+eu+sou+Naylane+👾!;Seja+bem-vindo!)](https://git.io/typing-svg)
 
 - 🌱 Estudante de programação.
-- 🎓 Curso: [Técnico em Informática - IFCE]
 - 💡 Aprendendo algo novo todo dia!
 -->
 
